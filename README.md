@@ -112,6 +112,6 @@ With that said, I will be so glad if anybody finds this to be helpful.
 Any further contribution is welcomed.
 
 ## <a name="more">More Reading Notes</a>
-- [Software Architecture Patterns](https://github.com/ahmedhammad97/Software-Architecture-Patterns-Notes)
-- [Designing Data Intensive Applications](https://github.com/ahmedhammad97/Designing-Data-Intensive-Applications-Notes)
-- [Principles of Package Desgin](https://github.com/ahmedhammad97/Principles-of-Package-Design-Reading-Notes)
+- [Software Architecture Patterns](https://github.com/softwareenterprisearchitect/Software-Architecture-Patterns-Notes)
+- [Designing Data Intensive Applications](https://github.com/softwareenterprisearchitect/Designing-Data-Intensive-Applications-Notes)
+- [Principles of Package Desgin](https://github.com/softwareenterprisearchitect/Principles-of-Package-Design-Reading-Notes)
